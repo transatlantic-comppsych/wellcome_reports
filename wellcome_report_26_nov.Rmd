@@ -1,0 +1,87 @@
+---
+title: "Surprises as a Mechanism of Change in Social Anxiety and Depression: 6-month
+  report"
+date: "26th November 2023"
+output:
+  pdf_document: 
+      extra_dependencies: ["float"]
+  word_document: default
+    
+---  
+```{r echo=FALSE}
+knitr::opts_chunk$set(fig.pos = "H", out.extra = "")
+```
+
+
+
+## Project Title: Surprises as a Mechanism of Improvement in the Psychological Therapy of Anxiety and Depression in Young People.
+Grant Reference: 226785/Z/22/Z  
+Project Start Date: 12/05/2023  
+Project End Date: 12/05/2028  
+
+Report authors: Stringaris A (UCL, PI), Biria M (UCL, post-doc), Payne M (UCL, post-doc), Spencer L (Oxford, post-doc), Bagdades E (UCL, research assistant), Burman C (UCL, research assistant), Tromans N (Oxford research assistant), Krebs G (UCL, Co-I), Leigh E (Oxford, Co-I), Singh I (Oxford, Co-I).
+
+
+**Progress made over the past six months**   
+
+We have made good progress towards our goals as indicated by the following.
+
+-  Recruitment of post-doctoral researchers and research assistants. Two post-doctoral researchers have joined the team through UCL , Drs Biria (DATE) and Payne (DATE), both cognitive neuroscientists, and Dr Lucienne Spencer, a philosopher, has joined the team through Oxford. Ms Elena Bagdades, a psychologist with a background in computational neuroscience and Charlotte Burman, a psychologist with a clinical training, have joined through UCL as research assistants; Ms Naomi Tromans, a psychologist with a background in development, joined through Oxford. We have weekly inter-disciplinary meetings between the UCL and Oxford sites. Please see Fig 1 depicting some of the members of the team (photo with all involved coming soon).
+
+```{r echo=FALSE, out.width='85%', fig.cap= "Members of the surprise team at dinner with colleagues"}
+knitr::include_graphics("aim_lab.jpg")
+
+```
+
+- Recruitment of Young People's Advisory Group  
+Lucienne to add to this.  
+- Development of Cognitive Tasks 
+We have made great progress towards developing the novel neurocognitive probes for our projects. In particular, we already have a prototype task that demonstrates a robust relationship between mood and prediction errors. We illustrate this project under the heading "Preliminary Findings and Key Discoveries"
+
+- Recruitment and Testing of Participants 18-25 years 
+As shown in Figure 2, we have already recruited XXX adults in total via online platforms. This has allowed us to do extensive piloting of our tasks and the development of several versions with small but important changes. 
+
+```{r echo=FALSE, out.width='85%', fig.cap= "Recruitment of online participants"}
+knitr::include_graphics("Surprise_study_online_recruitment_flowchart.jpg")
+
+```
+
+
+
+- Recruitment of Schools and Testing of Adolescent Participants 
+As shown in Figure 3, we have already recruited XX schools in the Greater London area. These are mainstream schools with very diverse composition of pupils. We have already started collecting data from the first school (NAME) and our first adolescents (defined here as <18 years of age) and have agreed with the visit the other schools from the start of the new year.
+
+```{r echo=FALSE, out.width='85%', fig.cap= "Recruitment of Schools"}
+knitr::include_graphics("school_flowchart.jpg")
+
+```
+
+
+
+**Preliminary findings and/or key discoveries**  
+
+- We are pursuing two main lines of research. The first is the design of a surprise task, one that elicits social prediction errors which lead to changes in mood. The second is the drifting through social hierarchies eliciting changes in self-focused attention and consequently mood. Our results here focus primiarly on the surprise task, which Dr Biria has been leading for the last 6 months.  
+- Figure 4 shows the experimental set up for the surprise task. Figure 5 shows the relationship between social prediction errors (i.e. surprises) and mood across participants. The discovery that we can indeed elicit social predictions that have an effect on mood on a trial by trial basis is new and very encouraging for the next steps.    
+
+```{r echo=FALSE, out.width='85%', fig.cap= "[placeholder experimental set up surprises"}
+knitr::include_graphics("exp_set_up.jpg")
+
+```
+
+
+```{r echo=FALSE, out.width='85%', fig.cap= "[Association between subjective prediction error (surprise) and mood"}
+knitr::include_graphics("subjective_pe_mood.jpg")
+
+```
+
+**Lived Experience**    
+-  A key aspect of this project is facilitating co-production with the NEUROSEC Youth Advisory Group (YAG). Thus far, the YAG members have participated in the surprise project task and have provided detailed feedback on how the task can be adapted to better suit the project's aims. The YAG members were given the time to reflect upon how the task made them feel and in the session they were asked open questions. We have applied these valuable insights to develop the task, focusing on deterring young people’s assumptions that they are interacting with AI and increasing engagement from young people. Future YPAG sessions have been organised for further collaboration on the project.  
+
+-  One fundamental change to our lived experience engagement plan involves recruiting new YAG members from diverse backgrounds to collaborate on this project. The team acknowledges that lived experiences consist of intersectional identities, that meet across age, gender, socioeconomic position, disability, ethnicity, race etc. Drawing upon a rich pool of intersectional lived experiences will provide an invaluable source of knowledge for the project. For this reason, the YAG members are co-designing inclusive recruitment strategies and resources for the project.
+
+**Challenges, delays or risks.**
+
+We had no delays to the task development and participant/school recruitment components. However, there have been substantial delays in setting up the contracts with Oxford University, which threatened with delays in the lived experience work and the hiring of Ms Tromans. Thankfully, we found ways of working with existing YPAG through Prof Singh and thanks to the patience of Ms Tromans, we were able to mitigate these problems. However, we would appreciate a discussion with Wellcome about the issue of inter-university contracts and the implications of policies by university contracts departments.
+
+**Anything else**
+We appreciated our last meeting with Dr Wefelmeyer and woudl appreciate another one soonn to ask questions regarding administrative and budget allocation flexibility.
