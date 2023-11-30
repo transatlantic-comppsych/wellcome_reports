@@ -34,7 +34,9 @@ knitr::include_graphics("aim_lab.jpg")
 ```
 
 - Recruitment of Young People's Advisory Group  
-Lucienne to add to this.  
+A key aspect of this project is facilitating co-production with the NEUROSEC Young People’s Advisory Group (YPAG). The YPAG members who have assisted the project are Asher Wood, Clara Sayers, Emerson Earl, Sophie Pannett Smith, Eve Lownds, Juniper Sweet and Caitlin Brookes. We have met with the YPAG members for co-production on the surprise project on three occasions  (26/06/2023, 26/09/2023, 30/10/2023). Thus far, the YPAG members have participated in the surprise project task and have provided detailed feedback on how the task can be adapted to better suit the project's aims. The YPAG members were given the time to reflect upon how the task made them feel and in the session they were asked open questions. We have applied these valuable insights to develop the task, focusing on deterring young people’s assumptions that they are interacting with AI and increasing engagement from young people. Future YPAG sessions have been organised for further collaboration on the project. 
+One fundamental change to our lived experience engagement plan involves recruiting new YPAG members from diverse backgrounds to collaborate on this project. The team acknowledges that lived experiences consist of intersectional identities, that meet across age, gender, socioeconomic position, disability, ethnicity, race etc. Drawing upon a rich pool of intersectional lived experiences will provide an invaluable source of knowledge for the project. For this reason, the YPAG members are co-designing inclusive recruitment strategies and resources for the project, and have been updating the terms of reference. Thus far, we have met with the YPAG twice to coordinate on this (16/10/23, 30/11/23). 
+
 - Development of Cognitive Tasks 
 We have made great progress towards developing the novel neurocognitive probes for our projects. In particular, we already have a prototype task that demonstrates a robust relationship between mood and prediction errors. We illustrate this project under the heading "Preliminary Findings and Key Discoveries"
 
