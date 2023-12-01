@@ -59,7 +59,7 @@ knitr::include_graphics("School_Recruitment_Flow.jpg")
 ```
 
 
-```{r echo=FALSE, out.width='65%', fig.cap= "Recruitment of Schools"}
+```{r echo=FALSE, out.width='65%', fig.cap= "Study Flyer"}
 knitr::include_graphics("Student_flyer_with_correct_QR.jpg")
 
 ```
