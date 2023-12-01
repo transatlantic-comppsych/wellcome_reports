@@ -26,7 +26,7 @@ Report authors: Stringaris A (UCL, PI), Biria M (UCL, post-doc), Payne M (UCL, p
 
 We have made good progress towards our goals as indicated by the following.
 
--  Recruitment of post-doctoral researchers and research assistants. Two post-doctoral researchers have joined the team through UCL , Drs Biria (DATE) and Payne (DATE), both cognitive neuroscientists, and Dr Lucienne Spencer, a philosopher, has joined the team through Oxford. Ms Elena Bagdades, a psychologist with a background in computational neuroscience and Charlotte Burman, a psychologist with a clinical training, have joined through UCL as research assistants; Ms Naomi Tromans, a psychologist with a background in developmental and clinical psychology, joined through Oxford. We have weekly inter-disciplinary meetings between the UCL and Oxford sites. Please see Fig 1 depicting some of the members of the team (photo with all involved coming soon).
+-  Recruitment of post-doctoral researchers and research assistants. Two post-doctoral researchers have joined the team through UCL , Drs Biria (DATE) and Payne (DATE), both cognitive neuroscientists, and Dr Lucienne Spencer, a philosopher, has joined the team through Oxford. Ms Elena Bagdades, a psychologist with a background in computational neuroscience and Charlotte Burman, a psychologist with clinical training, have joined through UCL as research assistants; Ms Naomi Tromans, a psychologist with a background in developmental and clinical psychology, joined through Oxford. We have weekly inter-disciplinary meetings between the UCL and Oxford sites. Please see Fig 1 depicting some of the members of the team (photo with all involved coming soon).
 
 ```{r echo=FALSE, out.width='85%', fig.cap= "Members of the surprise team at dinner with colleagues"}
 knitr::include_graphics("aim_lab.jpg")
@@ -51,7 +51,7 @@ knitr::include_graphics("gantt_chart_for_wellcome.png")
 
 
 - Recruitment of Schools and Testing of Adolescent Participants 
-We are working together with the School Lead of the Anna Freud Centre, Ms Jaime Smith, to recruit schools around the Greater London Area. As shown in Figure 3, we have already recruited 8 schools in the Greater London area. These are mainstream schools with very diverse composition of pupils. We have already started collecting data from the first school (NAME) and our first adolescents (defined here as <18 years of age) and have agreed with the visit the other schools from the start of the new year. Figure 4 shows one of our flyers for recruitment.
+We are working together with the School Lead of the Anna Freud Centre, Ms Jaime Smith, to recruit schools around the Greater London Area. As shown in Figure 3, we have already recruited 8 schools in the Greater London area. These are mainstream schools with very diverse composition of pupils. We have already begun recruitment of adolescents (defined here as <18 years of age) in the first school (Southfields Academy) and have agreed to visit the other schools from the start of the new year. Figure 4 shows one of our flyers for recruitment.
 
 ```{r echo=FALSE, out.width='85%', fig.cap= "Recruitment of Schools"}
 knitr::include_graphics("school_flowchart.jpg")
@@ -243,4 +243,4 @@ knitr::include_graphics("surprise_task_summary.png")
 We had no delays to the task development and participant/school recruitment components. However, there have been substantial delays in setting up the contracts with Oxford University, which threatened with delays in the lived experience work and the hiring of Ms Tromans. Thankfully, we found ways of working with existing YPAG through Prof Singh and thanks to the patience of Ms Tromans, we were able to mitigate these problems. However, we would appreciate a discussion with Wellcome about the issue of inter-university contracts and the implications of policies by university contracts departments.
 
 **Anything else**
-We appreciated our last meeting with Dr Wefelmeyer and woudl appreciate another one soonn to ask questions regarding administrative and budget allocation flexibility.
+We appreciated our last meeting with Dr Wefelmeyer and would appreciate another one soon to ask questions regarding administrative and budget allocation flexibility.
