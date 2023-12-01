@@ -12,11 +12,12 @@ platform_colors <- c("Prolific " = "darkblue", "Testable Minds " = "#529EFF", "A
 
 # Create Gantt chart with colors and legend
 ggplot(df, aes(x = start_dates, xend = end_dates, y = tasks, yend = tasks, color = platforms)) +
-  geom_segment(size = 7) +
+  geom_segment(size = 10) + 
   geom_text(aes(x = start_dates + duration/2, y = tasks, label = paste("n=", participants)), 
             position = position_nudge(y = 0), 
-            size = 4, color = "white") +
+            size = 3.2, color = "white") +
   scale_color_manual(values = platform_colors) +  # Assign colors based on platforms
   labs(title = "Surprise Task Recruitment, Total n = 533", x = "Timeline", y = "Tasks", color = "Platforms") +
   theme_minimal() +  # You can choose different themes as per your preference
   guides(color = guide_legend(title = "Platforms")) # Legend title 
+
