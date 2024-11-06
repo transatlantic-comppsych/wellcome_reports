@@ -30,7 +30,15 @@ knitr::include_graphics("lab_members-1.webp")
 
 -   Development of Cognitive Tasks
 
+    We've made significant progress in developing novel cognitive tasks for our projects. In particular, we've created a task that simulates the experience of social interactions. Through this task, we've already demonstrated a robust relationship between prediction errors and both mood and anxiety.
+
+    -   Maddy's tasks
+
+    -   MDoT
+
 -   Online Recruitment of Participants (18-25 years)
+
+    We have recruited 1837 **(+Miranda' s studies?)** participants via Prolific. This includes participant recruitment for piloting during task development as well as recruitment of our final participant sample.
 
 -   Community Recruitment of Participants (18-25 years)
 
