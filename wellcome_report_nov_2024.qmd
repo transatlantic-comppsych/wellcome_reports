@@ -1,0 +1,33 @@
+---
+title: "Surprises as a Mechanism of Change in Social Anxiety and Depression: annual report"
+date: November 2024
+output:
+  pdf_document: 
+      extra_dependencies: ["float"]
+  word_document: default
+---
+
+## Project Title: Surprises as a Mechanism of Improvement in the Psychological Therapy of Anxiety and Depression in Young People.
+
+Grant Reference: 226785/Z/22/Z\
+Project Start Date: 12/05/2023\
+Project End Date: 12/05/2028
+
+Report authors: Stringaris A (UCL, PI), Payne M (UCL, post-doc), Spencer L (Oxford, post-doc), Bagdades E (UCL, research assistant), Delpech R (UCL, research assistant), Norman J (UCL, research assistant), Tromans N (Oxford research assistant), Z Kokan (Oxford research assistant), Krebs G (UCL, Co-I), Leigh E (Oxford, Co-I), Singh I (Oxford, Co-I).
+
+**Progress made over the past twelve months**
+
+We have made good progress towards our goals as indicated by the following:
+
+-   Three research assistants have joined the team. Ms Raphaelle Delpech (15/04/24), with a background in psychology and neuroscince and Ms Jessica Norman (28/05/24), with a background in biology, psychology and clinical experience, have joined through UCL. Ms Zeba Kokan (19/09/24), with a background in brain and behavioural sciences and global studies, has joined through Oxford. We have weekly inter-disciplinary meetings between the UCL and Oxford sites. Please see Fig 1 depicting some of the members of the team.
+
+```{r echo=FALSE, out.width='85%', fig.cap= "Members of the surprise team at dinner with colleagues"}
+knitr::include_graphics("lab_members-1.webp")
+
+```
+
+-   Recruitment of Young People's Advisory Group\
+
+-   Development of Cognitive Tasks
+
+-   Online Recruitment of Participants (18-25 years)
