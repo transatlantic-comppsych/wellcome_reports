@@ -26,8 +26,12 @@ knitr::include_graphics("lab_members-1.webp")
 
 ```
 
--   Recruitment of Young People's Advisory Group\
+-   Young People's Advisory Group
 
 -   Development of Cognitive Tasks
 
 -   Online Recruitment of Participants (18-25 years)
+
+-   Community Recruitment of Participants (18-25 years)
+
+-   School Recruitment of Participants (14-18 years)
