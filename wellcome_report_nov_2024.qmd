@@ -32,9 +32,11 @@ knitr::include_graphics("lab_members-1.webp")
 
     We've made significant progress in developing novel cognitive tasks for our projects. In particular, we've created a task that simulates the experience of social interactions. Through this task, we've already demonstrated a robust relationship between prediction errors and both mood and anxiety.
 
-    -   Maddy's tasks
+    -   Maddy's tasks (storytelling task)
 
-    -   MDoT
+    -   MDoT?
+
+    -   Naomi's tasks
 
 -   Online Recruitment of Participants (18-25 years)
 
@@ -48,7 +50,9 @@ knitr::include_graphics("lab_members-1.webp")
 
 ### Surprise Task
 
-### "Cone of Gaze"
+-   
+
+### "Cone of Gaze" (experimental + meta-analysis)
 
 ### "Story telling task"
 
