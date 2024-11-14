@@ -26,9 +26,9 @@ knitr::include_graphics("lab_members-1.webp")
 
 ```
 
--   Young People's Advisory Group
+-   **Young People's Advisory Group**
 
--   Development of Cognitive Tasks
+-   **Development of Cognitive Tasks**
 
     We've made significant progress in developing novel cognitive tasks for our projects. In particular, we've created a task that simulates the experience of social interactions. Through this task, we've already demonstrated a robust relationship between prediction errors and both mood and anxiety.
 
@@ -38,13 +38,13 @@ knitr::include_graphics("lab_members-1.webp")
 
     -   Naomi's tasks
 
--   Online Recruitment of Participants (18-25 years)
+-   **Online Recruitment of Participants (18-25 years)**
 
-    We have recruited 1837 **(+Miranda' s studies?)** participants via Prolific. This includes participant recruitment for piloting during task development as well as recruitment of our final participant sample.
+    We have recruited 1837 participants via Prolific. This includes participant recruitment for piloting during task development as well as recruitment of our final participant samples.
 
--   Community Recruitment of Participants (18-25 years)
+-   **Community Recruitment of Participants (18-25 years)**
 
--   School Recruitment of Participants (14-18 years)
+-   **School Recruitment of Participants (14-18 years)**
 
 ## **Preliminary findings and/or key discoveries**
 
