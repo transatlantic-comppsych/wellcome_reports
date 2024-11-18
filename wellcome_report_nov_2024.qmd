@@ -79,6 +79,10 @@ In a first set of analyses we used Linear Mixed Effects (LME) models to look at 
 
 -   **School recruitment (n=)**
 
+    -\> NOTE: waiting for this round of student participants to complete before running analysis
+
+In a second set of analyses, we are also currently in the process of developing and testing various computational models to be fitted on the data from the surprise task, with the hope that these will provide a more thorough understanding of the cognitive mechanisms taking place.
+
 ### "Cone of Gaze" (experimental + meta-analysis)
 
 ### "Story telling task"
