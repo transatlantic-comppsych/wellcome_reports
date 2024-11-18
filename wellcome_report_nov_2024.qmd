@@ -28,6 +28,16 @@ knitr::include_graphics("lab_members-1.webp")
 
 -   **Young People's Advisory Group**
 
+    **Neurox YPAG**
+
+    The NeurOX YPAG has played an invaluable role in developing research for the Surprise Project. The YPAG is comprised of 33 young people aged 14-23 from a range of backgrounds and ethnicities.
+
+    For the Authenticity & Impression Management sub-study, the YPAG has helped develop an interview guide and has advised on the terminology that would be most accessible to young people participating in this study. YPAG members have also participated in trial runs of the interview guide, which has been adapted according to their feedback.
+
+    **Maddy YPAG feedback**
+
+    **Naomi YPAG feedback**
+
 -   **Development of Cognitive Tasks**
 
     We've made significant progress in developing novel cognitive tasks for our projects. In particular, we've created a task that simulates the experience of social interactions. Through this task, we've already demonstrated a robust relationship between prediction errors and both mood and anxiety.
@@ -58,7 +68,7 @@ knitr::include_graphics("lab_members-1.webp")
 
 ## 
 
-## **Lived Experience** 
+## **Lived Experience**
 
 ## **Challenges, delays or risks** 
 
