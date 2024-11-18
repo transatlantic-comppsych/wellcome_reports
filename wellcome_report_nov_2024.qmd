@@ -26,9 +26,7 @@ knitr::include_graphics("lab_members-1.webp")
 
 ```
 
--   **Young People's Advisory Group**
-
-    **Neurox YPAG**
+-   **Young People's Advisory Group (NeurOX YPAG)**
 
     The NeurOX YPAG has played an invaluable role in developing research for the Surprise Project. The YPAG is comprised of 33 young people aged 14-23 from a range of backgrounds and ethnicities.
 
@@ -60,7 +58,26 @@ knitr::include_graphics("lab_members-1.webp")
 
 ### Surprise Task
 
--   
+We have collected data using the surprise task from the following groups: young adults between the ages of 18-25 through Prolific, young adults between the ages of 18-25 through local community recruitment, and students between the ages of 14-18 through school recruitment.
+
+In a first set of analyses we used Linear Mixed Effects (LME) models to look at the relationship between social surprises or prediction errors (PEs) and momentary mood and anxiety. Specifically, we tested various models with different random effects structure as well as some that included trait social anxiety scores (mini SPIN scores) as a co-variate and some that didn't.
+
+-   **Online recruitment (n=29)**
+
+    -   The best fitted LME for mood and prediction error was the following $Mood  \sim  social\ PE + mini\ SPIN\ score + (social\ PE | Participant\ ID)$. The coefficient for the main effect of social PE on mood was 0.27 (95%CI = 0.16 - 0.38).
+
+    -   The best fitted LME for anxiety and prediction error was the following $Anxiety  \sim  social\ PE + mini\ SPIN\ score + (social\ PE | Participant\ ID)$. The coefficient for the main effect of social PE on mood was -0.15 (95%CI = -0.23 - -0.08).
+
+```{=html}
+<!-- -->
+```
+-   **Local community recruitment (n=45)**
+
+    -   The best fitted LME for mood and prediction error was the following $Mood  \sim  social\ PE + mini\ SPIN\ score + (social\ PE | Participant\ ID)$. The coefficient for the main effect of social PE on mood was 0.19 (95%CI = 0.12 - 0.27).
+
+    -   The best fitted LME for anxiety and prediction error was the following $Anxiety  \sim  social\ PE + mini\ SPIN\ score + (social\ PE | Participant\ ID)$. The coefficient for the main effect of social PE on mood was -0.07 (95%CI = -0.11 - -0.03).
+
+-   **School recruitment (n=)**
 
 ### "Cone of Gaze" (experimental + meta-analysis)
 
