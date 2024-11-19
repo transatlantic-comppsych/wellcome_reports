@@ -26,16 +26,6 @@ knitr::include_graphics("lab_members-1.webp")
 
 ```
 
--   **Young People's Advisory Group (NeurOX YPAG)**
-
-    The NeurOX YPAG has played an invaluable role in developing research for the Surprise Project. The YPAG is comprised of 33 young people aged 14-23 from a range of backgrounds and ethnicities.
-
-    For the Authenticity & Impression Management sub-study, the YPAG has helped develop an interview guide and has advised on the terminology that would be most accessible to young people participating in this study. YPAG members have also participated in trial runs of the interview guide, which has been adapted according to their feedback.
-
-    **Maddy YPAG feedback**
-
-    **Naomi YPAG feedback**
-
 -   **Development of Cognitive Tasks**
 
     We've made significant progress in developing novel cognitive tasks for our projects. In particular, we've created a task that simulates the experience of social interactions. Through this task, we've already demonstrated a robust relationship between prediction errors and both mood and anxiety.
@@ -54,6 +44,22 @@ knitr::include_graphics("lab_members-1.webp")
 
 -   **School Recruitment of Participants (14-18 years)**
 
+-   **Development of Research Protocol for "Impression management and Authenticity" sub-study**
+
+    -   This sub-study is lead by Dr Lucienne Spencer and will aim to answer the following research question: How does 'impression management' impact young people with social anxiety disorder (SAD)?
+
+    -   We hypothesise that impression management will have more negative impacts on young people’s ‘authentic self’ than overall positive impacts.
+
+    -   This study will: 
+
+        1.   Investigate the negative and positive impacts of impression management on young people with SAD.  
+
+        2.  Analyse the balance of negative and positive impacts of impression management on this population 
+
+        3.   Investigate how impression management impacts a young person’s authentic self. This will include refining the concept of ‘authenticity’ for young people that best maps onto their intuitions.  
+
+    -   We will conduct 1:1 Semi-structured phenomenological interview of 40-50 young people with SAD, aged between 14 and 18 over Zoom. The interview will be approximately 2.5 hours. We have chosen to have the interview over Zoom because our participants have social anxiety disorder, and an in-person session would impact recruitment.  
+
 ## **Preliminary findings and/or key discoveries**
 
 ### Surprise Task
@@ -68,9 +74,6 @@ In a first set of analyses we used Linear Mixed Effects (LME) models to look at 
 
     -   The best fitted LME for anxiety and prediction error was the following $Anxiety  \sim  social\ PE + mini\ SPIN\ score + (social\ PE | Participant\ ID)$. The coefficient for the main effect of social PE on mood was -0.15 (95%CI = -0.23 - -0.08).
 
-```{=html}
-<!-- -->
-```
 -   **Local community recruitment (n=45)**
 
     -   The best fitted LME for mood and prediction error was the following $Mood  \sim  social\ PE + mini\ SPIN\ score + (social\ PE | Participant\ ID)$. The coefficient for the main effect of social PE on mood was 0.19 (95%CI = 0.12 - 0.27).
@@ -87,10 +90,22 @@ In a second set of analyses, we are also currently in the process of developing 
 
 ### "Story telling task"
 
-## 
+### **The Surprise Intervention in Social Anxiety Disorder: A Phenomenological Account** 
+
+-   This study uses a phenomenological approach to reveal the complex dimensions and the subtle therapeutic benefits of the surprise intervention for those with social anxiety disorder. In recent years, the term ‘phenomenology’, when applied to the field of psychiatry, has often been misappropriated to merely refer to the first-person expressions of an individual or group. Rather, phenomenology is a stringent methodology that seeks to examine the most foundational experiential phenomena. This includes temporal and spatial experiences, a sense of self and agency, one’s experience of other people and overall attunement to the world.  Psychiatric disorders are not limited to the mind but impact one’s entire perception of the world. Therefore, we require such phenomenological tools to access some of the more abstract aspects of psychiatric disorders and to design their accompanying interventions. First, we establish that surprise intervention can force a reflective process, akin to the epoché. We propose that surprise can act as an intellectual tool for the person with social anxiety disorder and can trigger a profound re-evaluation of implicitly held assumptions, namely the negative evaluations they assume to receive from others. Second, we identify that surprise can elicit a transformation in one’s experience of the self and the world. We provide a phenomenological account of the shift in attention from self to external, which is a central feature of Clark and Wells's cognitive behavioural model. This phenomenological account of the surprise intervention reveals the complex ways in which the intervention impacts the individual.
 
 ## **Lived Experience**
 
-## **Challenges, delays or risks** 
+-   **Young People's Advisory Group (NeurOX YPAG)**
+
+    The NeurOX YPAG has played an invaluable role in developing research for the Surprise Project. The YPAG is comprised of 33 young people aged 14-23 from a range of backgrounds and ethnicities.
+
+    For the Authenticity & Impression Management sub-study, the YPAG has helped develop an interview guide and has advised on the terminology that would be most accessible to young people participating in this study. YPAG members have also participated in trial runs of the interview guide, which has been adapted according to their feedback.
+
+    **Maddy YPAG feedback**
+
+    **Naomi YPAG feedback**
+
+## **Challenges, delays or risks**
 
 ## **Anything else**
