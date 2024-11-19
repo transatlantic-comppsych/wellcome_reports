@@ -60,6 +60,26 @@ knitr::include_graphics("lab_members-1.webp")
 
     -   We will conduct 1:1 Semi-structured phenomenological interview of 40-50 young people with SAD, aged between 14 and 18 over Zoom. The interview will be approximately 2.5 hours. We have chosen to have the interview over Zoom because our participants have social anxiety disorder, and an in-person session would impact recruitment.  
 
+-   **Progress on understanding the role of self-processing variables (self-focused attention, safety behaviours, and negative self-image) in producing or maintaining symptoms of social anxiety disorder**
+
+    -   This effort is led by Naomi Tromans and involves:
+
+        1.  A Systematic review and meta-analysis looking at the types of manipulations which have been used to experimentally alter these self-processing variables, and the effects of enhancing or reducing them on self-reported state anxiety and/or observer-reported anxious appearance across the lifespan.
+
+            -   Working towards this, a pre-registration has been published on Prospero (CRD42024554587 Available from:  <https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42024554587>) outlining eligibility criteria, search strategy, and analysis plans.
+
+            -   The review is currently nearing the end of full text screening.
+
+        2.   Development of a qualitative sub-study investigating the subjective experience of self and external foci of attention in a sample of anxious adolescents.
+
+            -   This study utilises an element of Cognitive Therapy for Social anxiety, the self-focused attention and safety behaviours experiment. This experiment is used early in treatment and has been shown to effectively reduce state social anxiety. It involves the patient, or in this case participant, having one conversations being highly self-focused and using their safety behaviours, and another being externally focused and dropping these behaviours.
+
+            -   The qualitative interview aims to understand the subjective experience of each conversation, what works about the instructions or delivery to manipulate self-processing and to alter state anxiety. It also goes on to ask about experiences of these different modes of attention more generally in everyday life.
+
+            -   Progressing towards this, a protocol has been developed and piloted with YPAG members, along with the interview topic guide and in-session VAS measures, e.g. of state anxiety, perceived performance, and the occurrence and quality or negative self-imagery.
+
+            -   An ethics amendment was submitted and recruitment is intended to begin in January.
+
 ## **Preliminary findings and/or key discoveries**
 
 ### Surprise Task
@@ -102,9 +122,9 @@ In a second set of analyses, we are also currently in the process of developing 
 
     For the Authenticity & Impression Management sub-study, the YPAG has helped develop an interview guide and has advised on the terminology that would be most accessible to young people participating in this study. YPAG members have also participated in trial runs of the interview guide, which has been adapted according to their feedback.
 
-    **Maddy YPAG feedback**
+    For the subjective experience of self-focused attention sub-study, the YPAG has helped pilot the study procedure, providing feedback on content of instructions and interviews, on session structure and length, and on session intensity.
 
-    **Naomi YPAG feedback**
+    -   **Maddy YPAG feedback**
 
 ## **Challenges, delays or risks**
 
