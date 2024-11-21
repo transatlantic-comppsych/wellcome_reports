@@ -86,6 +86,14 @@ knitr::include_graphics("lab_members-1.webp")
 
             -   An ethics amendment was submitted and recruitment is intended to begin in January.
 
+    **Progress on WP3: identifying the neural markers of social interactions and mood**
+
+    -   We have submitted and received approval from UCL Ethics to record EEG and MEG data simultaneously with performance on cognitive tasks in participants aged 16-25 years, following the same recruitment pathways currently in place.
+
+    -   MEG and EEG are non-invasive functional imaging techniques with a high temporal resolution allowing us to track the neural underpinnings of trial-by-trial changes in social surprises and participant self-reported mood. The high temporal resolution of these tools will allow us to look at neural responses during (and in the milliseconds following) the presentation of social feedback to participants.
+
+    -   In the next year, lab members based at UCL will undergo training for these methods, including safety practices, and we will work on adapting the tasks for EEG/MEG implementation.
+
 ## **Preliminary findings and/or key discoveries**
 
 ### Surprise Task
