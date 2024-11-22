@@ -48,7 +48,7 @@ knitr::include_graphics("lab_members-1.webp")
 
 -   **Development of Research Protocol for "Impression management and Authenticity" sub-study**
 
-    -   This sub-study is lead by Dr Lucienne Spencer and will aim to answer the following research question: How does 'impression management' impact young people with social anxiety disorder (SAD)?
+    -   This sub-study is lead by Dr Lucienne Spencer and will aim to answer the following research question: "How does 'impression management' impact young people with social anxiety disorder (SAD)?"
 
     -   We hypothesise that impression management will have more negative impacts on young people’s ‘authentic self’ than overall positive impacts.
 
