@@ -21,9 +21,7 @@ We have made good progress towards our goals as indicated by the following:
 
 -   Three research assistants have joined the team. Ms Raphaelle Delpech (15/04/24), with a background in psychology and neuroscince and Ms Jessica Norman (28/05/24), with a background in biology, psychology and clinical experience, have joined through UCL. Ms Zeba Kokan (19/09/24), with a background in brain and behavioural sciences and global studies, has joined through Oxford. We have weekly inter-disciplinary meetings between the UCL and Oxford sites. Please see Fig 1 depicting some of the members of the team.
 
--   Dr Daniel Rautio will be joining the team from August 2025 through July 2027, and work on WP4 and WP5, through a starting grant from the Swedish Research Council for Health, Working Life and Welfare; Forte. This grant of approximately 300 000 pounds, divided over a period of three to four years, is intended to promote establishment and independence in research by providing junior researchers with the opportunity to conduct their own research project.
-
--   Dr Daniel Rautio is an experienced psychologist and psychotherapist that has been responsible for the care of patients with body dysmorphic disorder (BDD) at the specialist obsessive-compulsive and related disorders clinic within the child and adolescent mental health services in Stockholm, Sweden, since the opening in 2015. He has taken the lead at evaluating and refining the clinic’s treatment manual for BDD, in collaboration with colleagues at the Maudsley Hospital in London, UK. He has also been in charge of building the clinic’s database of cases with paediatric BDD, which is one of the largest cohorts of BDD cases in the world. Further, he has led the first treatment trial evaluating internet-delivered CBT for children and adolescents with BDD. Having just finished his PhD, Dr. Rautio is already an established BDD researcher, and has published several studies of high quality in the field.
+-   Dr Daniel Rautio will be joining the team from August 2025 through July 2027, and work on WP4 and WP5, through a starting grant from the Swedish Research Council for Health, Working Life and Welfare; Forte. This grant of approximately £300,000, divided over a period of three to four years, is intended to promote establishment and independence in research by providing junior researchers with the opportunity to conduct their own research project. Dr Rautio is an experienced psychologist and psychotherapist that has been responsible for the care of patients with body dysmorphic disorder (BDD) at the specialist obsessive-compulsive and related disorders clinic within the child and adolescent mental health services in Stockholm, Sweden, since the opening in 2015. He has taken the lead at evaluating and refining the clinic’s treatment manual for BDD, in collaboration with colleagues at the Maudsley Hospital in London, UK. He has also been in charge of building the clinic’s database of cases with paediatric BDD, which is one of the largest cohorts of BDD cases in the world. Further, he has led the first treatment trial evaluating internet-delivered CBT for children and adolescents with BDD. Having just finished his PhD, Dr. Rautio is already an established BDD researcher, and has published several studies of high quality in the field.
 
      
 
@@ -39,8 +37,6 @@ knitr::include_graphics("lab_members-1.webp")
     -   Maddy's tasks (storytelling task)
 
     -   MDoT?
-
-    -   Naomi's tasks
 
 -   **Online Recruitment of Participants (18-25 years)**
 
