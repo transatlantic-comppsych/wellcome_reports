@@ -46,6 +46,11 @@ knitr::include_graphics("lab_members-1.webp")
 
 -   **School Recruitment of Participants (14-18 years)**
 
+    ```{r echo=FALSE, out.width='85%', fig.cap= "Members of the surprise team at dinner with colleagues"}
+    knitr::include_graphics("students_consort_261124.png")
+
+    ```
+
 -   **Development of Research Protocol for "Impression management and Authenticity" sub-study**
 
     -   This sub-study is lead by Dr Lucienne Spencer and will aim to answer the following research question: "How does 'impression management' impact young people with social anxiety disorder (SAD)?"
