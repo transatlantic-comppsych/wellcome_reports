@@ -54,11 +54,11 @@ knitr::include_graphics("lab_members-1.webp")
 
     -   This study will: 
 
-        1.   Investigate the negative and positive impacts of impression management on young people with SAD.  
+        1.  Investigate the negative and positive impacts of impression management on young people with SAD.  
 
         2.  Analyse the balance of negative and positive impacts of impression management on this population 
 
-        3.   Investigate how impression management impacts a young person’s authentic self. This will include refining the concept of ‘authenticity’ for young people that best maps onto their intuitions.  
+        3.  Investigate how impression management impacts a young person’s authentic self. This will include refining the concept of ‘authenticity’ for young people that best maps onto their intuitions.  
 
     -   We will conduct 1:1 Semi-structured phenomenological interview of 40-50 young people with SAD, aged between 14 and 18 over Zoom. The interview will be approximately 2.5 hours. We have chosen to have the interview over Zoom because our participants have social anxiety disorder, and an in-person session would impact recruitment.  
 
@@ -72,15 +72,17 @@ knitr::include_graphics("lab_members-1.webp")
 
             -   The review is currently nearing the end of full text screening.
 
-        2.   Development of a qualitative sub-study investigating the subjective experience of self and external foci of attention in a sample of anxious adolescents.
+        2.  Development of a qualitative sub-study investigating the subjective experience of self and external foci of attention in a sample of anxious adolescents.
 
-            -   This study utilises an element of Cognitive Therapy for Social anxiety, the self-focused attention and safety behaviours experiment. This experiment is used early in treatment and has been shown to effectively reduce state social anxiety. It involves the patient, or in this case participant, having one conversations being highly self-focused and using their safety behaviours, and another being externally focused and dropping these behaviours.
+        ```         
+        -   This study utilises an element of Cognitive Therapy for Social anxiety, the self-focused attention and safety behaviours experiment. This experiment is used early in treatment and has been shown to effectively reduce state social anxiety. It involves the patient, or in this case participant, having one conversations being highly self-focused and using their safety behaviours, and another being externally focused and dropping these behaviours.
 
-            -   The qualitative interview aims to understand the subjective experience of each conversation, what works about the instructions or delivery to manipulate self-processing and to alter state anxiety. It also goes on to ask about experiences of these different modes of attention more generally in everyday life.
+        -   The qualitative interview aims to understand the subjective experience of each conversation, what works about the instructions or delivery to manipulate self-processing and to alter state anxiety. It also goes on to ask about experiences of these different modes of attention more generally in everyday life.
 
-            -   Progressing towards this, a protocol has been developed and piloted with YPAG members, along with the interview topic guide and in-session VAS measures, e.g. of state anxiety, perceived performance, and the occurrence and quality or negative self-imagery.
+        -   Progressing towards this, a protocol has been developed and piloted with YPAG members, along with the interview topic guide and in-session VAS measures, e.g. of state anxiety, perceived performance, and the occurrence and quality or negative self-imagery.
 
-            -   An ethics amendment was submitted and recruitment is intended to begin in January.
+        -   An ethics amendment was submitted and recruitment is intended to begin in January.
+        ```
 
     **Progress on WP3: identifying the neural markers of social interactions and mood**
 
@@ -120,7 +122,7 @@ In a second set of analyses, we are also currently in the process of developing 
 
 ### "Story telling task"
 
-### **The Surprise Intervention in Social Anxiety Disorder: A Phenomenological Account** 
+### **The Surprise Intervention in Social Anxiety Disorder: A Phenomenological Account**
 
 -   This study uses a phenomenological approach to reveal the complex dimensions and the subtle therapeutic benefits of the surprise intervention for those with social anxiety disorder. In recent years, the term ‘phenomenology’, when applied to the field of psychiatry, has often been misappropriated to merely refer to the first-person expressions of an individual or group. Rather, phenomenology is a stringent methodology that seeks to examine the most foundational experiential phenomena. This includes temporal and spatial experiences, a sense of self and agency, one’s experience of other people and overall attunement to the world.  Psychiatric disorders are not limited to the mind but impact one’s entire perception of the world. Therefore, we require such phenomenological tools to access some of the more abstract aspects of psychiatric disorders and to design their accompanying interventions. First, we establish that surprise intervention can force a reflective process, akin to the epoché. We propose that surprise can act as an intellectual tool for the person with social anxiety disorder and can trigger a profound re-evaluation of implicitly held assumptions, namely the negative evaluations they assume to receive from others. Second, we identify that surprise can elicit a transformation in one’s experience of the self and the world. We provide a phenomenological account of the shift in attention from self to external, which is a central feature of Clark and Wells's cognitive behavioural model. This phenomenological account of the surprise intervention reveals the complex ways in which the intervention impacts the individual.
 
