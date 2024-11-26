@@ -25,7 +25,7 @@ We have made good progress towards our goals as indicated by the following:
 
      
 
-```{r echo=FALSE, out.width='85%', fig.cap= "Members of the surprise team at dinner with colleagues"}
+```{r echo=FALSE, out.width='85%', fig.cap= "Members of the surprise team"}
 knitr::include_graphics("lab_members-1.webp")
 
 ```
@@ -44,12 +44,20 @@ knitr::include_graphics("lab_members-1.webp")
 
 -   **Community Recruitment of Participants (18-25 years)**
 
+    For the surprise task, we have finished recruitment with 43 complete participants from the local community aged 18-25 years. We recruited via the UCL participant pool and via flyers distributed around UCL spaces.
+
+```{r echo=FALSE, out.width='85%', fig.cap= ""}
+knitr::include_graphics("lc_consort_261124.png")
+```
+
 -   **School Recruitment of Participants (14-18 years)**
 
-    ```{r echo=FALSE, out.width='85%', fig.cap= "Members of the surprise team at dinner with colleagues"}
-    knitr::include_graphics("students_consort_261124.png")
+    So far, we have 40 complete participants, recruited from 6 schools. We have been building ongoing relationships with schools in the hopes of being able to get support with future studies and of understanding how we can make the recruitment process simple and rewarding for schools and students.
 
-    ```
+```{r echo=FALSE, out.width='85%', fig.cap= ""}
+knitr::include_graphics("students_consort_261124.png")
+
+```
 
 -   **Development of Research Protocol for "Impression management and Authenticity" sub-study**
 
