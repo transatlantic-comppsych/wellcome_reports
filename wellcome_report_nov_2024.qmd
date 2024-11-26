@@ -87,15 +87,13 @@ knitr::include_graphics("students_consort_261124.png")
 
         2.  Development of a qualitative sub-study investigating the subjective experience of self and external foci of attention in a sample of anxious adolescents.
 
-        ```         
-        -   This study utilises an element of Cognitive Therapy for Social anxiety, the self-focused attention and safety behaviours experiment. This experiment is used early in treatment and has been shown to effectively reduce state social anxiety. It involves the patient, or in this case participant, having one conversations being highly self-focused and using their safety behaviours, and another being externally focused and dropping these behaviours.
+            -   This study utilises an element of Cognitive Therapy for Social anxiety, the self-focused attention and safety behaviours experiment. This experiment is used early in treatment and has been shown to effectively reduce state social anxiety. It involves the patient, or in this case participant, having one conversations being highly self-focused and using their safety behaviours, and another being externally focused and dropping these behaviours.
 
-        -   The qualitative interview aims to understand the subjective experience of each conversation, what works about the instructions or delivery to manipulate self-processing and to alter state anxiety. It also goes on to ask about experiences of these different modes of attention more generally in everyday life.
+            -   The qualitative interview aims to understand the subjective experience of each conversation, what works about the instructions or delivery to manipulate self-processing and to alter state anxiety. It also goes on to ask about experiences of these different modes of attention more generally in everyday life.
 
-        -   Progressing towards this, a protocol has been developed and piloted with YPAG members, along with the interview topic guide and in-session VAS measures, e.g. of state anxiety, perceived performance, and the occurrence and quality or negative self-imagery.
+            -   Progressing towards this, a protocol has been developed and piloted with YPAG members, along with the interview topic guide and in-session VAS measures, e.g. of state anxiety, perceived performance, and the occurrence and quality or negative self-imagery.
 
-        -   An ethics amendment was submitted and recruitment is intended to begin in January.
-        ```
+            -   An ethics amendment was submitted and recruitment is intended to begin in January.
 
     **Progress on WP3: identifying the neural markers of social interactions and mood**
 
