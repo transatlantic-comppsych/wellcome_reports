@@ -46,7 +46,7 @@ knitr::include_graphics("lab_members-1.webp")
 
     For the surprise task, we have finished recruitment with 43 complete participants from the local community aged 18-25 years. We recruited via the UCL participant pool and via flyers distributed around UCL spaces.
 
-```{r echo=FALSE, out.width='85%', fig.cap= ""}
+```{r echo=FALSE, out.width='85%', fig.cap= "Consort diagram of  recruitment"}
 knitr::include_graphics("lc_consort_261124.png")
 ```
 
@@ -54,7 +54,7 @@ knitr::include_graphics("lc_consort_261124.png")
 
     So far, we have 40 complete participants, recruited from 6 schools. We have been building ongoing relationships with schools in the hopes of being able to get support with future studies and of understanding how we can make the recruitment process simple and rewarding for schools and students.
 
-```{r echo=FALSE, out.width='85%', fig.cap= ""}
+```{r echo=FALSE, out.width='85%', fig.cap= "Consort diagram of school recruitment"}
 knitr::include_graphics("students_consort_261124.png")
 
 ```
@@ -113,21 +113,50 @@ In a first set of analyses we used Linear Mixed Effects (LME) models to look at 
 
 -   **Online recruitment (n=29)**
 
-    -   The best fitted LME for mood and prediction error was the following $Mood  \sim  social\ PE + mini\ SPIN\ score + (social\ PE | Participant\ ID)$. The coefficient for the main effect of social PE on mood was 0.27 (95%CI = 0.16 - 0.38).
+    -   The best fitted LME for mood and social prediction error was the following $Mood  \sim  social\ PE + mini\ SPIN\ score + (social\ PE | Participant\ ID)$. The coefficient for the main effect of social PE on mood was 0.27 (95%CI = 0.16 - 0.38).
 
-    -   The best fitted LME for anxiety and prediction error was the following $Anxiety  \sim  social\ PE + mini\ SPIN\ score + (social\ PE | Participant\ ID)$. The coefficient for the main effect of social PE on mood was -0.15 (95%CI = -0.23 - -0.08).
+        ```{r echo=FALSE, out.width='85%',fig.cap= "Online recruitment: LME for Mood and Social PE"}
+        knitr::include_graphics("prolific_mood_lme.png")
+
+        ```
+
+    -   The best fitted LME for anxiety and social prediction error was the following $Anxiety  \sim  social\ PE + mini\ SPIN\ score + (social\ PE | Participant\ ID)$. The coefficient for the main effect of social PE on mood was -0.15 (95%CI = -0.23 - -0.08).
+
+        ```{r echo=FALSE, out.width='85%', fig.cap= "Online recruitment: LME for Anxiety and Social PE"}
+        knitr::include_graphics("prolific_anx_lme.png")
+
+        ```
 
 -   **Local community recruitment (n=45)**
 
-    -   The best fitted LME for mood and prediction error was the following $Mood  \sim  social\ PE + mini\ SPIN\ score + (social\ PE | Participant\ ID)$. The coefficient for the main effect of social PE on mood was 0.19 (95%CI = 0.12 - 0.27).
+    -   The best fitted LME for mood and social prediction error was the following $Mood  \sim  social\ PE + mini\ SPIN\ score + (social\ PE | Participant\ ID)$. The coefficient for the main effect of social PE on mood was 0.19 (95%CI = 0.12 - 0.27).
 
-    -   The best fitted LME for anxiety and prediction error was the following $Anxiety  \sim  social\ PE + mini\ SPIN\ score + (social\ PE | Participant\ ID)$. The coefficient for the main effect of social PE on mood was -0.07 (95%CI = -0.11 - -0.03).
+        ```{r echo=FALSE, out.width='85%',fig.cap= "Community recruitment: LME for Mood and Social PE"}
+        knitr::include_graphics("com_mood_lme.png")
 
--   **School recruitment (n=)**
+        ```
 
-    -\> NOTE: waiting for this round of student participants to complete before running analysis
+    -   The best fitted LME for anxiety and social prediction error was the following $Anxiety  \sim  social\ PE + mini\ SPIN\ score + (social\ PE | Participant\ ID)$. The coefficient for the main effect of social PE on mood was -0.07 (95%CI = -0.11 - -0.03).
 
-In a second set of analyses, we are also currently in the process of developing and testing various computational models to be fitted on the data from the surprise task, with the hope that these will provide a more thorough understanding of the underlying cognitive mechanisms.
+        ```{r echo=FALSE, out.width='85%',fig.cap= "Community recruitment: LME for Anxiety and Social PE"}
+        knitr::include_graphics("com_anx_lme.png")
+        ```
+
+-   **School recruitment (n=40)**
+
+    -   The best fitted LME for mood and social prediction error was the following $Mood  \sim  social\ PE + mini\ SPIN\ score + (social\ PE | Participant\ ID)$. The coefficient for the main effect of social PE on mood was 0.12 (95%CI = 0.06 - 0.18).
+
+        ```{r echo=FALSE, out.width='85%',fig.cap= "School recruitment: LME for Mood and Social PE"}
+        knitr::include_graphics("com_mood_lme.png")
+        ```
+
+    -   The best fitted LME for anxiety and social prediction error was the following $Anxiety  \sim  social\ PE + mini\ SPIN\ score + (social\ PE | Participant\ ID)$. The coefficient for the main effect of social PE on mood was -0.04 (95%CI = -0.07 - -0.02).
+
+        ```{r echo=FALSE, out.width='85%',fig.cap= "School recruitment: LME for Anxiety and Social PE"}
+        knitr::include_graphics("com_anx_lme.png")
+        ```
+
+As part of a second set of analyses, we are also currently in the process of developing and testing various computational models to be fitted on the data from the surprise task, with the hope that these will provide a more thorough understanding of the underlying cognitive mechanisms.
 
 ### "Cone of Gaze" (experimental + meta-analysis)
 
