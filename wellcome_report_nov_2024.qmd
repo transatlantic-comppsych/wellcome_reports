@@ -1,5 +1,5 @@
 ---
-title: "Surprises as a Mechanism of Change in Social Anxiety and Depression: annual report"
+title: ""
 date: November 2024
 output:
   pdf_document: 
@@ -19,11 +19,11 @@ Report authors: Stringaris A (UCL, PI), Payne M (UCL, post-doc), Spencer L (Oxfo
 
 We have made good progress towards our goals as indicated by the following:
 
--   Three research assistants have joined the team. Ms Raphaelle Delpech (15/04/24), with a background in psychology and neuroscince and Ms Jessica Norman (28/05/24), with a background in biology, psychology and clinical experience, have joined through UCL. Ms Zeba Kokan (19/09/24), with a background in brain and behavioural sciences and global studies, has joined through Oxford. We have weekly inter-disciplinary meetings between the UCL and Oxford sites. Please see Fig 1 depicting some of the members of the team.
+-   Three research assistants have joined the team. Ms Raphaelle Delpech (15/04/24), with a background in psychology and neuroscience and Ms Jessica Norman (28/05/24), with a background in biology, psychology and clinical experience, have joined through UCL. Ms Zeba Kokan (19/09/24), with a background in brain and behavioural sciences and global studies, has joined through Oxford. We have weekly inter-disciplinary meetings between the UCL and Oxford sites. Please see Fig 1 depicting some of the members of the team.
 
--   Dr Daniel Rautio will be joining the team from August 2025 through July 2027, and work on WP4 and WP5, through a starting grant from the Swedish Research Council for Health, Working Life and Welfare; Forte. This grant of approximately £300,000, divided over a period of three to four years, is intended to promote establishment and independence in research by providing junior researchers with the opportunity to conduct their own research project. Dr Rautio is an experienced psychologist and psychotherapist that has been responsible for the care of patients with body dysmorphic disorder (BDD) at the specialist obsessive-compulsive and related disorders clinic within the child and adolescent mental health services in Stockholm, Sweden, since the opening in 2015. He has taken the lead at evaluating and refining the clinic’s treatment manual for BDD, in collaboration with colleagues at the Maudsley Hospital in London, UK. He has also been in charge of building the clinic’s database of cases with paediatric BDD, which is one of the largest cohorts of BDD cases in the world. Further, he has led the first treatment trial evaluating internet-delivered CBT for children and adolescents with BDD. Having just finished his PhD, Dr. Rautio is already an established BDD researcher, and has published several studies of high quality in the field.
+-   Dr Daniel Rautio will be joining the team to work specifically on this Wellcome project. He is funded through a prestigious starting grant from the Swedish Research Council for Health, Working Life and Welfare; Forte. This grant of approximately £300,000, divided over a period of three to four years, is intended to promote establishment and independence in research by providing junior researchers with the opportunity to conduct their own research project. Dr Rautio will be with our team from August 2025 through July 2027, and work on WP4 and WP5,is an experienced psychologist and psychotherapist that has been responsible for the care of patients with body dysmorphic disorder (BDD) at the specialist obsessive-compulsive and related disorders clinic within the child and adolescent mental health services in Stockholm, Sweden, since the opening in 2015. He has taken the lead at evaluating and refining the clinic’s treatment manual for BDD, in collaboration with colleagues at the Maudsley Hospital in London, UK. He has also been in charge of building the clinic’s database of cases with paediatric BDD, which is one of the largest cohorts of BDD cases in the world. Further, he has led the first treatment trial evaluating internet-delivered CBT for children and adolescents with BDD. Having just finished his PhD, Dr. Rautio is already an established BDD researcher, and has published several studies of high quality in the field.
 
-     
+
 
 ```{r echo=FALSE, out.width='85%', fig.cap= "Members of the surprise team"}
 knitr::include_graphics("lab_members-1.webp")
@@ -32,7 +32,7 @@ knitr::include_graphics("lab_members-1.webp")
 
 -   **Development of Cognitive Tasks**
 
-    We've made significant progress in developing novel cognitive tasks for our projects. In particular, we've created a task that simulates the experience of social interactions **("surprise task")**. Through this task, we've already demonstrated a robust relationship between prediction errors and both mood and anxiety.
+       We've made significant progress in developing novel cognitive tasks for our projects. In particular, we've created a task that simulates the experience of social interactions **("surprise task")**. Through this task, we've already demonstrated a robust relationship between prediction errors and both mood and anxiety.
 
     We have also developed a novel task to assess when and how individuals employ self-focussed attention, a crucial component of our active ingredients model. This task **("story-building task")** involves a collaborative story-building activity, in which young people must work together with online virtual players to create story snippets. We measure self-focussed attention through memory for participants' own contributions to the stories, and have already found interesting pilot results that young people may become self-focussed in volatile social environments, when social feedback is unpredictable.
 
@@ -43,6 +43,7 @@ knitr::include_graphics("lab_members-1.webp")
 -   **Community Recruitment of Participants (18-25 years)**
 
     For the surprise task, we have finished recruitment with 43 complete participants from the local community aged 18-25 years. We recruited via the UCL participant pool and via flyers distributed around UCL spaces.
+
 
 ```{r echo=FALSE, out.width='85%', fig.cap= "Consort diagram of  recruitment"}
 knitr::include_graphics("lc_consort_261124.png")
@@ -63,15 +64,16 @@ knitr::include_graphics("students_consort_261124.png")
 
     -   We hypothesise that impression management will have more negative impacts on young people’s ‘authentic self’ than overall positive impacts.
 
-    -   This study will: 
+    -   This study will: 
 
-        1.  Investigate the negative and positive impacts of impression management on young people with SAD.  
+        1.  Investigate the negative and positive impacts of impression management on young people with SAD.  
 
-        2.  Analyse the balance of negative and positive impacts of impression management on this population 
+        2.  Analyse the balance of negative and positive impacts of impression management on this population 
 
-        3.  Investigate how impression management impacts a young person’s authentic self. This will include refining the concept of ‘authenticity’ for young people that best maps onto their intuitions.  
+        3.  Investigate how impression management impacts a young person’s authentic self. This will include refining the concept of ‘authenticity’ for young people that best maps onto their intuitions.  
 
-    -   We will conduct 1:1 Semi-structured phenomenological interview of 40-50 young people with SAD, aged between 14 and 18 over Zoom. The interview will be approximately 2.5 hours. We have chosen to have the interview over Zoom because our participants have social anxiety disorder, and an in-person session would impact recruitment.  
+    -   We will conduct 1:1 Semi-structured phenomenological interview of 40-50 young people with SAD, aged between 14 and 18 over Zoom. The interview will be approximately 2.5 hours. We have chosen to have the interview over Zoom because our participants have social anxiety disorder, and an in-person session would impact recruitment.  
+
 
 -   **Progress on understanding the role of self-processing variables (self-focused attention, safety behaviours, and negative self-image) in producing or maintaining symptoms of social anxiety disorder**
 
@@ -79,7 +81,7 @@ knitr::include_graphics("students_consort_261124.png")
 
         1.  A Systematic review and meta-analysis looking at the types of manipulations which have been used to experimentally alter these self-processing variables, and the effects of enhancing or reducing them on self-reported state anxiety and/or observer-reported anxious appearance across the lifespan.
 
-            -   Working towards this, a pre-registration has been published on Prospero (CRD42024554587 Available from:  <https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42024554587>) outlining eligibility criteria, search strategy, and analysis plans.
+            -   Working towards this, a pre-registration has been published on Prospero (CRD42024554587 Available from:  <https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42024554587>) outlining eligibility criteria, search strategy, and analysis plans.
 
             -   The review is currently nearing the end of full text screening.
 
@@ -93,9 +95,10 @@ knitr::include_graphics("students_consort_261124.png")
 
             -   An ethics amendment was submitted and recruitment is intended to begin in January.
 
-    **Progress on WP3: identifying the neural markers of social interactions and mood**
 
-    -   We have submitted and received approval from UCL Ethics to record EEG and MEG data simultaneously with performance on cognitive tasks in participants aged 16-25 years, following the same recruitment pathways currently in place.
+  **Progress on WP3: identifying the neural markers of social interactions and mood**
+
+      -   We have submitted and received approval from UCL Ethics to record EEG and MEG data simultaneously with performance on cognitive tasks in participants aged 16-25 years, following the same recruitment pathways currently in place.
 
     -   MEG and EEG are non-invasive functional imaging techniques with a high temporal resolution allowing us to track the neural underpinnings of trial-by-trial changes in social surprises and participant self-reported mood. The high temporal resolution of these tools will allow us to look at neural responses during (and in the milliseconds following) the presentation of social feedback to participants.
 
@@ -158,7 +161,8 @@ As part of a second set of analyses, we are also currently in the process of dev
 
 ### Cone of Gaze Task (experiment + meta-analysis)
 
--   In this study, we investigate 'cone of gaze' in social anxiety. Cone of gaze describes the width of eye gaze, that individual's perceive as self-directed. Interestingly, people tend to judge quite a wide range of gaze angles as self-directed, often perceiving another person to be looking at them even if they are really looking some distance to the left or right of them. In social anxiety, patients may be even more susceptible to this. This may underlie symptoms such as excessive self-focussed attention and self-consciousness in social anxiety, but may provide a more easily manipulable target for therapy. Here, we assessed the size of the difference in gaze perception between social anxiety and non-anxious participants. We conducted a systematic review and meta-analysis, showing that individuals with social anxiety showed a moderately wider cone of gaze as self-directed than non-anxious participants (*g* = .59, CI = \[.22, .95\], *p* = .005). Further we conducted three experiments, showing that the difference between socially anxious and non-anxious groups was stronger when the stimuli were more threatening (faces with angry expressions). This suggests a promising avenue for the project, providing a potential outcome measure and/or target for therapeutic intervention.
+-  In this study, we investigate 'cone of gaze' in social anxiety. Cone of gaze describes the width of eye gaze, that individual's perceive as self-directed. Interestingly, people tend to judge quite a wide range of gaze angles as self-directed, often perceiving another person to be looking at them even if they are really looking some distance to the left or right of them. In social anxiety, patients may be even more susceptible to this. This may underlie symptoms such as excessive self-focussed attention and self-consciousness in social anxiety, but may provide a more easily manipulable target for therapy. Here, we assessed the size of the difference in gaze perception between social anxiety and non-anxious participants. We conducted a systematic review and meta-analysis, showing that individuals with social anxiety showed a moderately wider cone of gaze as self-directed than non-anxious participants (*g* = .59, CI = \[.22, .95\], *p* = .005). Further we conducted three experiments, showing that the difference between socially anxious and non-anxious groups was stronger when the stimuli were more threatening (faces with angry expressions). This suggests a promising avenue for the project, providing a potential outcome measure and/or target for therapeutic intervention.
+
 
 ### Story-building task
 
@@ -166,7 +170,7 @@ As part of a second set of analyses, we are also currently in the process of dev
 
 ### **The Surprise Intervention in Social Anxiety Disorder: A Phenomenological Account**
 
--   This study uses a phenomenological approach to reveal the complex dimensions and the subtle therapeutic benefits of the surprise intervention for those with social anxiety disorder. In recent years, the term ‘phenomenology’, when applied to the field of psychiatry, has often been misappropriated to merely refer to the first-person expressions of an individual or group. Rather, phenomenology is a stringent methodology that seeks to examine the most foundational experiential phenomena. This includes temporal and spatial experiences, a sense of self and agency, one’s experience of other people and overall attunement to the world.  Psychiatric disorders are not limited to the mind but impact one’s entire perception of the world. Therefore, we require such phenomenological tools to access some of the more abstract aspects of psychiatric disorders and to design their accompanying interventions. First, we establish that surprise intervention can force a reflective process, akin to the epoché. We propose that surprise can act as an intellectual tool for the person with social anxiety disorder and can trigger a profound re-evaluation of implicitly held assumptions, namely the negative evaluations they assume to receive from others. Second, we identify that surprise can elicit a transformation in one’s experience of the self and the world. We provide a phenomenological account of the shift in attention from self to external, which is a central feature of Clark and Wells's cognitive behavioural model. This phenomenological account of the surprise intervention reveals the complex ways in which the intervention impacts the individual.
+-   This study uses a phenomenological approach to reveal the complex dimensions and the subtle therapeutic benefits of the surprise intervention for those with social anxiety disorder. In recent years, the term ‘phenomenology’, when applied to the field of psychiatry, has often been misappropriated to merely refer to the first-person expressions of an individual or group. Rather, phenomenology is a stringent methodology that seeks to examine the most foundational experiential phenomena. This includes temporal and spatial experiences, a sense of self and agency, one’s experience of other people and overall attunement to the world.  Psychiatric disorders are not limited to the mind but impact one’s entire perception of the world. Therefore, we require such phenomenological tools to access some of the more abstract aspects of psychiatric disorders and to design their accompanying interventions. First, we establish that surprise intervention can force a reflective process, akin to the epoché. We propose that surprise can act as an intellectual tool for the person with social anxiety disorder and can trigger a profound re-evaluation of implicitly held assumptions, namely the negative evaluations they assume to receive from others. Second, we identify that surprise can elicit a transformation in one’s experience of the self and the world. We provide a phenomenological account of the shift in attention from self to external, which is a central feature of Clark and Wells's cognitive behavioural model. This phenomenological account of the surprise intervention reveals the complex ways in which the intervention impacts the individual.
 
 ## **Lived Experience**
 
@@ -180,6 +184,20 @@ As part of a second set of analyses, we are also currently in the process of dev
 
     The YPAG have given feedback on the story-building task, and as a result, updates have been made to make it feel more collaborative (by changing the prompts) and to create realistic and believable profiles for the team members. The YPAG have given feedback verbally via a meeting and also provided written feedback for the team member profiles.
 
+
 ## **Challenges, delays or risks**
 
-## **Anything else**
+Optimising Allocation of Resources.   
+On 4th November we sent an email to Wellcome and followed up last week, about the following.
+We have already some major insights from our experimental work (as expanded above) and want to optimise the next steps, which in our case are designed to culminate in a large RCT of an innovative intervention to arise from or experimental work. As you may remember, it was your strong recommendation that we frame the final two work packages (WP4 and WP5) as a Randomised Controlled Trial (RCT). This requires specific work on the regulatory but also practical side, including the optimal sample size selection and the most feasible and promising methodology for mechanistic work.
+ 
+To achieve this, we need to intensify further the experimental and recruitment work so that the intervention becomes as scalable as possible and is tested rigorously and mechanistically in a larger sample/samples of young people.  For this, we believe that it would make most sense if we could make the following minor changes to the allocation of the budget.
+ 
+Convert numerous short-term posts (indicated as “temporary PhD students” into fewer longer term RA/Fellow posts. They are presently at the equivalent of 70 months full time for these temporary contracts.  Our work so far has shown that having fewer longer terms research assistants better serves the purposes of the project as they can be trained and operate within schools and communities much more effectively. This is because they are able to establish relationships with schools, a central aspect of this work. They also receive on the whole better training because of their time in the lab, including on quantitative methods but also in interactions with the YPAG and other collaborators. Having longer-term RAs will best serve the request for an RCT as they will be in best position to support it.
+ 
+In keeping with the idea of optimally embedding mechanistic work, i.e. active ingredients work, into the RCT, we also ask to convert the funds for the Magnetoencephalography (MEG) to funds for Electroencephalography (EEG) and wider recruitment. MEG scanning is bound to a specifically designed scanning room, whereas EEG can in principle be portable and applied in non-specialist environments, such schools. The reason for preferring EEG over MEG is that having the portable EEG option for testing would be advantageous for testing the intervention in large sample sizes (which in turn is crucial for robust mechanistic inferences). Our work so far has demonstrated that we have an experimental set up that lends itself to large-scale testing which would be best served by EEG brain recordings. This switch would come at no cost to the testing of our hypotheses given that the temporal resolution (the key element for testing our hypotheses) is equivalent between the two methods. We specifically ask that we allocate the costs for MEG in such a way as to purchase a cutting-edge EEG machine (estimated max cost ~ £40,000) and the permission to use the rest of the money for even broader recruitment into the various phases of the mechanistic RCT (including online and in person participant testing costs and remuneration). The current funds allocated to MEG is £128,000 (original) + £69,516.71 (additional recent award).
+ 
+We are happy to provide more details about these two changes and look forward to hearing back from Wellcome soon.
+
+
+
