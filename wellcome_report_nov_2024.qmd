@@ -1,10 +1,11 @@
 ---
 title: ""
 date: November 2024
-output:
-  pdf_document: 
-      extra_dependencies: ["float"]
-  word_document: default
+format: docx
+# output: 
+#   pdf_document: 
+#       extra_dependencies: ["float"]
+#   word_document: default
 ---
 
 # Project Title: Surprises as a Mechanism of Improvement in the Psychological Therapy of Anxiety and Depression in Young People.
