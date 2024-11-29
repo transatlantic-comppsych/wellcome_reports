@@ -32,11 +32,9 @@ knitr::include_graphics("lab_members-1.webp")
 
 -   **Development of Cognitive Tasks**
 
-    We've made significant progress in developing novel cognitive tasks for our projects. In particular, we've created a task that simulates the experience of social interactions. Through this task, we've already demonstrated a robust relationship between prediction errors and both mood and anxiety.
+    We've made significant progress in developing novel cognitive tasks for our projects. In particular, we've created a task that simulates the experience of social interactions **("surprise task")**. Through this task, we've already demonstrated a robust relationship between prediction errors and both mood and anxiety.
 
-    -   Maddy's tasks (storytelling task)
-
-    -   MDoT?
+    We have also developed a novel task to assess when and how individuals employ self-focussed attention, a crucial component of our active ingredients model. This task **("story telling task")** involves a collaborative story-telling activity, in which young people must work together with online virtual players to create story snippets. We measure self-focussed attention through memory for participants' own contributions to the stories, and have already found interesting pilot results that young people may become self-focussed in volatile social environments, when social feedback is unpredictable.
 
 -   **Online Recruitment of Participants (18-25 years)**
 
@@ -158,9 +156,13 @@ In a first set of analyses we used Linear Mixed Effects (LME) models to look at 
 
 As part of a second set of analyses, we are also currently in the process of developing and testing various computational models to be fitted on the data from the surprise task, with the hope that these will provide a more thorough understanding of the underlying cognitive mechanisms.
 
-### "Cone of Gaze" (experimental + meta-analysis)
+### Cone of Gaze Task (experiment + meta-analysis)
 
-### "Story telling task"
+-   In this study, we investigate 'cone of gaze' in social anxiety. Cone of gaze describes the width of eye gaze, that individual's perceive as self-directed. Interestingly, people tend to judge quite a wide range of gaze angles as self-directed, often perceiving another person to be looking at them even if they are really looking some distance to the left or right of them. In social anxiety, patients may be even more susceptible to this. This may underlie symptoms such as excessive self-focussed attention and self-consciousness in social anxiety, but may provide a more easily manipulable target for therapy. Here, we assessed the size of the difference in gaze perception between social anxiety and non-anxious participants. We conducted a systematic review and meta-analysis, showing that individuals with social anxiety showed a moderately wider cone of gaze as self-directed than non-anxious participants (*g* = .59, CI = \[.22, .95\], *p* = .005). Further we conducted three experiments, showing that the difference between socially anxious and non-anxious groups was stronger when the stimuli were more threatening (faces with angry expressions). This suggests a promising avenue for the project, providing a potential outcome measure and/or target for therapeutic intervention.
+
+### Story-telling task
+
+-   In the story-telling task, participants work in teams to create stories, and are given feedback about how much they are valued by the team (how many players voted to keep them in the team). This set-up allows us to manipulate the feedback consistency and valence in different team environments, by changing how predictable (does the team' behave the same way towards you throughout the whole game?) and how positive (does the team vote to keep you in the game or not?) the participant's feedback is. To measure self-focussed attention, participants are asked about their memory for the interactions. We hypothesise that unpredictable social feedback will cue self-focussed attention in participants, and so participants will remember more of their own contributions than others' during these blocks. So far, we have tested \~60 participants online, in two pilot studies, and 27 participants in a school setting. This project will allow us to better understand the conditions under which individuals shift their attention towards the self, and guide our interventions targetted at self-focussed attention.
 
 ### **The Surprise Intervention in Social Anxiety Disorder: A Phenomenological Account**
 
@@ -176,7 +178,7 @@ As part of a second set of analyses, we are also currently in the process of dev
 
     For the subjective experience of self-focused attention sub-study, the YPAG has helped pilot the study procedure, providing feedback on content of instructions and interviews, on session structure and length, and on session intensity.
 
-    -   **Maddy YPAG feedback**
+    The YPAG have given feedback on the story-telling task, and as a result, updates have been made to make it feel more collaborative (by changing the prompts) and to create realistic and believable profiles for the team members. The YPAG have given feedback verbally via a meeting and also provided written feedback for the team member profiles.
 
 ## **Challenges, delays or risks**
 
